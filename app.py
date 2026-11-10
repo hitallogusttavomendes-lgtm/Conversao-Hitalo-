@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🧮 Comparador de Combustível")
+st.title("🧮 Comparador de Combustível Rede Via")
 
 n1 = st.number_input('Valor do Etanol', value=4.59, format="%.2f")
 n2 = st.number_input('Valor da Gasolina', value=6.29, format="%.2f")
